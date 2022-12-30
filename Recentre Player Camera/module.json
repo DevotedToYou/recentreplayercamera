@@ -1,0 +1,19 @@
+{
+  "name": "Centre Player Camera",
+  "title": {
+    "en": "Centre Player Camera"
+  },
+  "description": {
+    "en": "Type /player to recentre the player token."
+  },
+  "author": "Devoted",
+  "version": "1.0.0",
+  "manifest": "module.json",
+  "minimumCoreVersion": "0.6.5",
+  "type": "client",
+  "dependencies": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevotedToYou/centrecamerabnb.git"
+  }
+}
